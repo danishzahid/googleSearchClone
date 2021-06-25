@@ -1,0 +1,23 @@
+.str{
+	text-align: left;
+	margin-left: 3%;
+}
+.button{
+	text-align: right;
+	margin-left: 28%;
+	background-color: #2E72E1;
+	color: white;
+	padding: 7px 10px;
+}
+
+.link{
+	position: absolute;
+	text-align: right;
+	margin-right: auto;
+	margin-top: 8px;
+	margin-left: 90%;
+	margin-bottom: auto;
+	font-size: 22px;
+}
+h1{color: red;}
+p{font-size: 25px;}

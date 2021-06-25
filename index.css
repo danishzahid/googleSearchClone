@@ -1,0 +1,40 @@
+
+form{
+	text-align: center;
+
+}
+.Links{
+	position: absolute;
+	font-size: 22px;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-left: 90%;
+	margin-bottom: auto;
+}
+
+.fom{
+	margin-left: 38%;
+	width: 450px;
+    line-height: 42px;
+    padding: 20px 10px;
+	position: absolute;
+	margin-top: 200px;
+    }
+
+ #search{
+ 	padding: 10px 15px;
+ 	border-radius: 20px;
+ 	border: 2px solid #E8EEEE;
+ }
+ #google, #lucky{
+ 	padding: 6px 6px;
+ 	color: grey;
+ 	margin-left: 5px;
+
+ }
+ .abc{
+ 	margin-left: 10%;
+ }
+.img{
+
+}
